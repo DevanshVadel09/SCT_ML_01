@@ -55,6 +55,11 @@ The app expects models trained on these features:
 - **scikit-learn**: Model loading and predictions
 - **Chart.js**: Data visualizations
 
+## DataSet Used
+``` 
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+```
+
 ## License
 
 Open source - feel free to modify and use for your projects!
